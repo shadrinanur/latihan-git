@@ -1,1 +1,1 @@
-console.log("Nama : Shadrina");
+console.log("Nama : Shadrina")
